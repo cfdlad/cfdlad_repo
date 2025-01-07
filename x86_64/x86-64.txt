@@ -1,12 +1,16 @@
+### (jan-06-2025) cheat, freetype2-wps, nautilus-open-any-terminal, peazip-gtk2-bin, projectm-git, systemd-pilot-bin, winegui, wps-office-bwrap
+
 ### The new (dec-08-2024) list has new versions of ds4drv, lib32-gmp, lib32-ncurses5-compat-libs, nautilus-open-in-ptyxis, peazip-additional-formats-plugin-arc, peazip-additional-formats-plugin-lpaq,  peazip-additional-formats-plugin-paq, peazip-additional-formats-plugin-quad, peazip-additional-formats-plugin-upx, peazip-additional-formats-plugin-zpaq, projectm-git, peazip-gtk2-bin-10.1.0-2, projectm-sdl2, systemd-manager-git, systemd-pilot-bin-2.0.0-1, sysz and zsh-autocomplete
 
 ### The index.html file has been updated (dec-8-2024)
 
-cheat-4.4.2-2-x86_64.pkg.tar.zst
+cheat-4.4.2-3-x86_64.pkg.tar.zst
 
 ds4drv-0.5.1-5-any.pkg.tar.zst
 
 florence-0.6.3-3-x86_64.pkg.tar.zst
+
+freetype2-wps-2.13.3-1-x86_64.pkg.tar.zst
 
 hplip-plugin-3.24.4-1-x86_64.pkg.tar.zst
 
@@ -15,6 +19,8 @@ lib32-gmp-6.3.0-2-x86_64.pkg.tar.zst
 lib32-ncurses5-compat-libs-6.4-1-x86_64.pkg.tar.zst
 
 metagedit-git-r68.e6dec8a-1-any.pkg.tar.zst
+
+nautilus-open-any-terminal-0.6.0-3-any.pkg.tar.zst
 
 nautilus-open-in-ptyxis-1.0.0-1-any.pkg.tar.zst
 
@@ -30,9 +36,9 @@ peazip-additional-formats-plugin-upx-6-1-x86_64.pkg.tar.zst
 
 peazip-additional-formats-plugin-zpaq-6-1-x86_64.pkg.tar.zst
 
-peazip-gtk2-bin-10.1.0-2-x86_64.pkg.tar.zst
+peazip-gtk2-bin-10.2.0-1-x86_64.pkg.tar.zst
 
-projectm-git-2711.f2a0277dd-1-x86_64.pkg.tar.zst
+projectm-git-2729.c0a286897-1-x86_64.pkg.tar.zst
 
 projectm-sdl2-git-112.df6bfb5-1-x86_64.pkg.tar.zst
 
@@ -40,13 +46,15 @@ python-iso639-0.4.5-5-any.pkg.tar.zst
 
 systemd-manager-git-1.0.0.r12.g4efeb47-1.2-x86_64.pkg.tar.zst
 
-systemd-pilot-bin-2.0.0-1-any.pkg.tar.zst
+systemd-pilot-bin-3.0.0-1-any.pkg.tar.zst
 
 sysz-1.4.3-1-any.pkg.tar.zst
 
 themechanger-git-r46.04153a8-1-x86_64.pkg.tar.zst
 
-winegui-2.6.5-1-x86_64.pkg.tar.zst
+winegui-2.7.0-1-x86_64.pkg.tar.zst
+
+wps-office-bwrap-1.0-2-any.pkg.tar.zst
 
 xdman-7.2.11-2-x86_64.pkg.tar.zst
 
