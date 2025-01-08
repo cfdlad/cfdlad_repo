@@ -1,4 +1,4 @@
-### (jan-06-2025) cheat, freetype2-wps, nautilus-open-any-terminal, peazip-gtk2-bin, projectm-git, systemd-pilot-bin, winegui, wps-office-bwrap
+### (jan-08-2025) cheat, freetype2-wps, ghostty, ghostty-shell-integration, ghostty-terminfo, nautilus-open-any-terminal, peazip-gtk2-bin, projectm-git, systemd-pilot-bin, winegui, wps-office-bwrap
 
 ### The new (dec-08-2024) list has new versions of ds4drv, lib32-gmp, lib32-ncurses5-compat-libs, nautilus-open-in-ptyxis, peazip-additional-formats-plugin-arc, peazip-additional-formats-plugin-lpaq,  peazip-additional-formats-plugin-paq, peazip-additional-formats-plugin-quad, peazip-additional-formats-plugin-upx, peazip-additional-formats-plugin-zpaq, projectm-git, peazip-gtk2-bin-10.1.0-2, projectm-sdl2, systemd-manager-git, systemd-pilot-bin-2.0.0-1, sysz and zsh-autocomplete
 
@@ -11,6 +11,12 @@ ds4drv-0.5.1-5-any.pkg.tar.zst
 florence-0.6.3-3-x86_64.pkg.tar.zst
 
 freetype2-wps-2.13.3-1-x86_64.pkg.tar.zst
+
+ghostty-1.0.1-2-x86_64.pkg.tar.zst
+
+ghostty-shell-integration-1.0.1-2-x86_64.pkg.tar.zst
+
+ghostty-terminfo-1.0.1-2-x86_64.pkg.tar.zst
 
 hplip-plugin-3.24.4-1-x86_64.pkg.tar.zst
 
