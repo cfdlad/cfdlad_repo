@@ -23,7 +23,7 @@ peazip-additional-formats-plugin-quad-6-1-x86_64.pkg.tar.zst
 peazip-additional-formats-plugin-upx-6-1-x86_64.pkg.tar.zst
 peazip-additional-formats-plugin-zpaq-6-1-x86_64.pkg.tar.zst
 peazip-gtk2-bin-10.3.0-2-x86_64.pkg.tar.zst
-projectm-git-2729.c0a286897-1-x86_64.pkg.tar.zst
+projectm-git-2732.0227b7a61-1-x86_64.pkg.tar.zst
 projectm-sdl2-git-112.df6bfb5-1-x86_64.pkg.tar.zst
 python-iso639-0.4.5-8-any.pkg.tar.zst
 retroarch-autoconfig-udev-git-1.20.0.r0.ge7881a8-1-any.pkg.tar.zst
@@ -31,11 +31,11 @@ systemd-manager-git-1.0.0.r12.g4efeb47-1.2-x86_64.pkg.tar.zst
 systemd-pilot-bin-3.0.0-1-any.pkg.tar.zst
 sysz-1.4.3-1-any.pkg.tar.zst
 themechanger-git-r46.04153a8-1-x86_64.pkg.tar.zst
-winegui-2.7.1-1-x86_64.pkg.tar.zst
+winegui-2.8.1-1-x86_64.pkg.tar.zst
 wps-office-bwrap-1.0-2-any.pkg.tar.zst
 xdman-7.2.11-2-x86_64.pkg.tar.zst
 zorin-desktop-themes-4.2.1-1-any.pkg.tar.zst
-zsh-autocomplete-24.09.04-1-any.pkg.tar.zst
+zsh-autocomplete-25.03.19-1-any.pkg.tar.zst
 
 
 ##############################################################################################
