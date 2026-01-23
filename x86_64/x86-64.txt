@@ -7,6 +7,7 @@ florence-0.6.3-3-x86_64.pkg.tar.zst
 freetype2-wps-2.13.3-1-x86_64.pkg.tar.zst
 gtk2-2.24.33-3-x86_64.pkg.tar.zst
 hplip-plugin-3.24.4-1-x86_64.pkg.tar.zst
+lib32-gtk2-2.24.33-2-x86_64.pkg.tar.zst
 libchdr-git-r272.cb07733-1-x86_64.pkg.tar.zst
 libretro-beetle-saturn-git-2:r554.0a78a9a-1-x86_64.pkg.tar.zst
 libretro-dosbox-pure-git-1:1.0.preview1.r5.ge7c880a-1-x86_64.pkg.tar.zst
@@ -64,6 +65,7 @@ systemd-manager-tui-1.1.0-1-x86_64.pkg.tar.zst
 ### (jan-23-2026)
 ds4drv-0.5.1-6-any.pkg.tar.zst (updated the patch for gnome49)
 gtk2-2.24.33-3-x86_64.pkg.tar.zst (no longer in arch repo)
+lib32-gtk2-2.24.33-2-x86_64.pkg.tar.zst (no longer in arch repo)
 peazip-gtk2-bin-10.8.0-1-x86_64.pkg.tar.zst (updated aur pkgbuild)
 projectm-git-2814.db22c9335-1-x86_64.pkg.tar.zst (updated)
 projectm-sdl2-git-133.0231108-1-x86_64.pkg.tar.zst (updated)
