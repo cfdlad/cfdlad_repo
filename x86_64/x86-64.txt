@@ -60,7 +60,7 @@ python-iso639-0.4.5-8-any.pkg.tar.zst (removed)
 peazip-gtk2-bin-10.6.1-1-x86_64.pkg.tar.zst
 systemd-manager-tui-1.1.0-1-x86_64.pkg.tar.zst
 
-### (jan-23-2027)
+### (jan-23-2026)
 ds4drv-0.5.1-6-any.pkg.tar.zst (updated the patch for gnome49)
 gtk2-2.24.33-3-x86_64.pkg.tar.zst (no longer in arch repo)
 peazip-gtk2-bin-10.8.0-1-x86_64.pkg.tar.zst (updated aur pkgbuild)
