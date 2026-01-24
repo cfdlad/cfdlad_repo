@@ -1,0 +1,75 @@
+### The index.html file has been updated (jan-23-2027)
+
+blastem-hg-r2556.6f1eebc0a90b-1-x86_64.pkg.tar.zst
+cheat-4.4.2-3-x86_64.pkg.tar.zst
+ds4drv-0.5.1-6-any.pkg.tar.zst
+florence-0.6.3-3-x86_64.pkg.tar.zst
+freetype2-wps-2.13.3-1-x86_64.pkg.tar.zst
+gtk2-2.24.33-3-x86_64.pkg.tar.zst
+hplip-plugin-3.24.4-1-x86_64.pkg.tar.zst
+lib32-gtk2-2.24.33-2-x86_64.pkg.tar.zst
+libchdr-git-r272.cb07733-1-x86_64.pkg.tar.zst
+libretro-beetle-saturn-git-2:r554.0a78a9a-1-x86_64.pkg.tar.zst
+libretro-dosbox-pure-git-1:1.0.preview1.r5.ge7c880a-1-x86_64.pkg.tar.zst
+nautilus-open-any-terminal-0.6.0-3-any.pkg.tar.zst
+nautilus-open-in-ptyxis-1.0.0-1-any.pkg.tar.zst
+peazip-gtk2-bin-10.8.0-1-x86_64.pkg.tar.zst
+projectm-git-2814.db22c9335-1-x86_64.pkg.tar.zst
+projectm-sdl2-git-133.0231108-1-x86_64.pkg.tar.zst
+retroarch-autoconfig-udev-git-1.20.0.r0.ge7881a8-1-any.pkg.tar.zst
+systemd-manager-git-1.0.0.r12.g4efeb47-1.2-x86_64.pkg.tar.zst
+systemd-manager-tui-1.2.0-3-x86_64.pkg.tar.zst
+systemd-pilot-bin-3.0.0-1-any.pkg.tar.zst
+sysz-1.4.3-1-any.pkg.tar.zst
+themechanger-git-r46.04153a8-1-x86_64.pkg.tar.zst
+ttf-gentium-plus-7.000-2-any.pkg.tar.zst
+winegui-2.8.1-1-x86_64.pkg.tar.zst
+wps-office-bwrap-1.0-2-any.pkg.tar.zst
+xdman-7.2.11-2-x86_64.pkg.tar.zst
+zsh-autocomplete-25.03.19-1-any.pkg.tar.zst
+
+
+##############################################################################################
+
+### To create updated database file
+### make a new directory
+### put all .pkg.tar.zst files inside new directory
+### enter new directory
+### open the terminal from within the new directory
+### run the repo database command (shown below)
+
+### Create the repository database files use
+repo-add cfdlad.db.tar.gz *.pkg.tar.zst
+
+############################################################################################
+
+
+### The new (dec-08-2024) list has new versions of ds4drv, lib32-gmp, lib32-ncurses5-compat-libs, nautilus-open-in-ptyxis, peazip-additional-formats-plugin-arc, peazip-additional-formats-plugin-lpaq,  peazip-additional-formats-plugin-paq, peazip-additional-formats-plugin-quad, peazip-additional-formats-plugin-upx, peazip-additional-formats-plugin-zpaq, projectm-git, peazip-gtk2-bin-10.1.0-2, projectm-sdl2, systemd-manager-git, systemd-pilot-bin-2.0.0-1, sysz and zsh-autocomplete
+
+### (jan-08-2025) cheat, freetype2-wps, ghostty, ghostty-shell-integration, ghostty-terminfo, nautilus-open-any-terminal, peazip-gtk2-bin, systemd-pilot-bin, winegui, wps-office-bwrap
+
+### (feb-25-2025)
+blastem-hg-r2556.6f1eebc0a90b-1-x86_64.pkg.tar.zst, icoextract-git-r84.310be4b-1-any.pkg.tar.zst, isd-appimage-v0.5.0-2-x86_64.pkg.tar.zst, libchdr-git-r272.cb07733-1-x86_64.pkg.tar.zst, libretro-beetle-saturn-git-2:r554.0a78a9a-1-x86_64.pkg.tar.zst, libretro-dosbox-pure-git-1:1.0.preview1.r5.ge7c880a-1-x86_64.pkg.tar.zst, retroarch-autoconfig-udev-git-1.20.0.r0.ge7881a8-1-any.pkg.tar.zst
+
+### (may-06-2025)
+ds4drv-0.5.1-5-any.pkg.tar.zst (updated the patch for gnome48)
+peazip-gtk2-bin-10.4.0-2-x86_64.pkg.tar.zst
+icoextract-git-r84.310be4b-1-any.pkg.tar.zst (removed)
+metagedit-git-r68.e6dec8a-1-any.pkg.tar.zst (removed)
+python-iso639-0.4.5-8-any.pkg.tar.zst (removed)
+
+### (sept-03-2025)
+peazip-gtk2-bin-10.6.1-1-x86_64.pkg.tar.zst
+systemd-manager-tui-1.1.0-1-x86_64.pkg.tar.zst
+
+### (jan-23-2026)
+ds4drv-0.5.1-6-any.pkg.tar.zst (updated the patch for gnome49)
+gtk2-2.24.33-3-x86_64.pkg.tar.zst (no longer in arch repo)
+lib32-gtk2-2.24.33-2-x86_64.pkg.tar.zst (no longer in arch repo)
+peazip-gtk2-bin-10.8.0-1-x86_64.pkg.tar.zst (updated aur pkgbuild)
+projectm-git-2814.db22c9335-1-x86_64.pkg.tar.zst (updated)
+projectm-sdl2-git-133.0231108-1-x86_64.pkg.tar.zst (updated)
+ttf-gentium-plus-7.000-2-any.pkg.tar.zst (Added)
+systemd-manager-tui-1.2.0-3-x86_64.pkg.tar.zst (updated)
+
+
